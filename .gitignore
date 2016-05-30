@@ -1,3 +1,4 @@
+clion20.key
 disabled_plugins.txt
 eval
 options/dimensions.xml
@@ -13,5 +14,6 @@ options/statistics.application.usages.xml
 options/usage.statistics.xml
 options/web-browsers.xml
 options/window.manager.xml
+plugins/
 port
 port.lock
