@@ -1,4 +1,4 @@
-clion20.key
+clion*.key
 disabled_plugins.txt
 eval
 options/dimensions.xml
@@ -8,6 +8,7 @@ options/find.xml
 options/images.support.xml
 options/options.xml
 options/other.xml
+options/proxy.settings.pwd
 options/recentProjectDirectories.xml
 options/runner.layout.xml
 options/security.xml
