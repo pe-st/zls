@@ -20,9 +20,11 @@
         <option value="js.generics.index" />
         <option value="js.typedef.index2" />
         <option value="js.symbol.index2" />
+        <option value="JS.custom.stub.index" />
         <option value="JS.class.implements" />
         <option value="JS.class.super" />
         <option value="ts.external.module.index" />
+        <option value="JS.global.qualified.elements" />
         <option value="js.element.qualifiedName" />
         <option value="js.qualified.shortName" />
         <option value="Css.custom.property" />
