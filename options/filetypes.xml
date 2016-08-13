@@ -1,0 +1,5 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.props;*.pyc;*.pyo;*.rbc;*.sdf;*.sln;*.suo;*.vcxproj*;*.yarb;*estlog*.txt;*~;.DS_Store;.cproject;.git;.hg;.project;.settings;.svn;CVS;RCS;SCCS;__pycache__;_pch_*;_svn;rcs;vssver.scc;vssver2.scc;" />
+  </component>
+</application>
