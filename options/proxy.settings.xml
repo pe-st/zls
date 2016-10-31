@@ -3,6 +3,6 @@
     <option name="USE_HTTP_PROXY" value="true" />
     <option name="PROXY_HOST" value="localhost" />
     <option name="PROXY_PORT" value="3128" />
-    <option name="PROXY_EXCEPTIONS" value="localhost, 127.0.0.*, 10.*, 192.168.*, *.telekurs.com, *.six-group.com, *.six-group.net, tdmm7-term1, tdmm9-term1, mdzhwfoto03, mtzhwfoto04, mdzhlfowa03, vmzdtooldev02, j98850" />
+    <option name="PROXY_EXCEPTIONS" value="localhost, 127.0.0.*, 10.*, 192.168.*, *.telekurs.com, *.six-group.com, *.six-group.net, tdmm7-term1, tdmm9-term1, mdzhwfoto03, mtzhlfoto04, mdzhlfowa03, vmzdtooldev02, j98850" />
   </component>
 </application>
