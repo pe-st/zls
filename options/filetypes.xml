@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.RTDU;*.hprof;*.props;*.pyc;*.pyo;*.rbc;*.sdf;*.sln;*.suo;*.vcxproj*;*.yarb;*estlog*.txt;*~;.DS_Store;.cproject;.git;.hg;.project;.settings;.svn;CVS;RCS;SCCS;__pycache__;_pch_*;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="*.cmake.in" type="CMakeLists.txt" />
+    </extensionMap>
+  </component>
+</application>
