@@ -14,6 +14,7 @@
         <option value="amd.baseUrl.index" />
         <option value="js.symbol.qualified.names.index" />
         <option value="JS.subclass.stub.index" />
+        <option value="js.namespace.including.local.members.index" />
         <option value="js.namespace.index" />
         <option value="js.class.index2" />
         <option value="JS.base.types.index" />
@@ -27,6 +28,7 @@
         <option value="JS.global.qualified.elements" />
         <option value="js.element.qualifiedName" />
         <option value="js.qualified.shortName" />
+        <option value="Css.custom.mixin" />
         <option value="Css.custom.property" />
         <option value="Css.attr" />
         <option value="Css.id" />
