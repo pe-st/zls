@@ -2,6 +2,7 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
+        <option value="js.exported.index" />
         <option value="Stylus.mixins" />
         <option value="Stylus.variables" />
         <option value="Scss.mixin" />
