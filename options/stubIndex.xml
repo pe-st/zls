@@ -10,6 +10,9 @@
         <option value="Scss.variable" />
         <option value="Less.variables" />
         <option value="Less.mixins" />
+        <option value="js.nonglobal.symbol.index" />
+        <option value="js.exported.index" />
+        <option value="js.global.symbol.index" />
         <option value="amd.requirePaths.index" />
         <option value="amd.baseUrl.index" />
         <option value="js.symbol.qualified.names.index" />
