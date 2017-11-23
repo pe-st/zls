@@ -13,5 +13,5 @@
 -XX:-OmitStackTraceInFastThrow
 -XX:MaxJavaStackTraceDepth=-1
 -agentlib:yjpagent64=probe_disable=*,disablealloc,disabletracing,onlylocal,disableexceptiontelemetry,delay=10000,sessionname=CLion2017.3
--Dide.no.platform.update=true
 -Dcom.jetbrains.use.old.keyevent.processing=true
+-Dide.no.platform.update=true
