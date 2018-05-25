@@ -3,63 +3,34 @@
     <defaultProject>
       <component name="CMakeSettings">
         <configurations>
-          <configuration CONFIG_NAME="Debug" />
+          <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
         </configurations>
       </component>
       <component name="InspectionProjectProfileManager">
-        <profile version="1.0">
-          <option name="myName" value="Project Default" />
-        </profile>
+        <option name="PROJECT_PROFILE" value="C++03" />
+        <option name="USE_PROJECT_PROFILE" value="false" />
         <version value="1.0" />
       </component>
-      <component name="ProjectDictionaryState">
-        <dictionary name="TKSNP" />
-      </component>
       <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
+        <entry key="C++03">
           <profile-state>
             <expanded-state>
               <State>
                 <id />
               </State>
+            </expanded-state>
+            <selected-state>
               <State>
                 <id>C/C++</id>
               </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
               <State>
-                <id>Code style issuesJavaScript</id>
-              </State>
-              <State>
-                <id>Flow type checkerJavaScript</id>
-              </State>
-              <State>
-                <id>GeneralC/C++</id>
-              </State>
-              <State>
-                <id>GeneralJavaScript</id>
-              </State>
-              <State>
-                <id>HTML</id>
-              </State>
-              <State>
-                <id>JavaScript</id>
-              </State>
-              <State>
-                <id>Probable bugsJavaScript</id>
-              </State>
-              <State>
-                <id>Python</id>
-              </State>
-              <State>
-                <id>Type checksC/C++</id>
-              </State>
-              <State>
-                <id>TypeScript</id>
-              </State>
-              <State>
-                <id>XML</id>
-              </State>
-              <State>
-                <id>XPath</id>
+                <id />
               </State>
             </expanded-state>
             <selected-state>

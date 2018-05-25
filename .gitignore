@@ -1,4 +1,4 @@
-clion*.key
+*.kdbx
 disabled_plugins.txt
 eval
 options/dimensions.xml
@@ -12,7 +12,7 @@ options/proxy.settings.pwd
 options/recentProjectDirectories.xml
 options/runner.layout.xml
 options/security.xml
-options/statistics.application.usages.xml
+options/statistics.*.xml
 options/updates.xml
 options/usage.statistics.xml
 options/web-browsers.xml
