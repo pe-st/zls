@@ -10,10 +10,12 @@
         <option value="Scss.variable" />
         <option value="Less.variables" />
         <option value="Less.mixins" />
+        <option value="js.doc.modules" />
         <option value="js.gcl.modules" />
         <option value="js.nonglobal.symbol.index" />
         <option value="ts.local.classes" />
         <option value="es6.assignment.index" />
+        <option value="es6.exported.index" />
         <option value="js.exported.index" />
         <option value="js.global.symbol.index" />
         <option value="amd.requirePaths.index" />

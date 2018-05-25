@@ -1,4 +1,5 @@
 *.kdbx
+clion.key
 disabled_plugins.txt
 eval
 options/dimensions.xml
