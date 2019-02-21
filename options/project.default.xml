@@ -6,6 +6,7 @@
           <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
         </configurations>
       </component>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
       <component name="InspectionProjectProfileManager">
         <option name="PROJECT_PROFILE" value="C++03" />
         <option name="USE_PROJECT_PROFILE" value="false" />
