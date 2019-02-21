@@ -2,14 +2,13 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="Stylus.mixins" />
-        <option value="Stylus.variables" />
-        <option value="Scss.mixin" />
-        <option value="Scss.function" />
-        <option value="Scss.placeholder.selector" />
         <option value="Scss.variable" />
         <option value="Less.variables" />
         <option value="Less.mixins" />
+        <option value="sql.names" />
+        <option value="sql.column.name" />
+        <option value="sql.table.shortName" />
+        <option value="js.amd.modules" />
         <option value="js.doc.modules" />
         <option value="js.gcl.modules" />
         <option value="js.nonglobal.symbol.index" />
@@ -51,6 +50,11 @@
         <option value="Py.class.shortName" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
+        <option value="Stylus.mixins" />
+        <option value="Stylus.variables" />
+        <option value="Scss.mixin" />
+        <option value="Scss.function" />
+        <option value="Scss.placeholder.selector" />
       </list>
     </option>
   </component>
