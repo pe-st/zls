@@ -1,3 +1,6 @@
+# Git bundles
+*.bundle
+
 *.kdbx
 clion.key
 disabled_plugins.txt
@@ -24,3 +27,4 @@ plugins/
 port
 port.lock
 tasks/
+terminal/history/
