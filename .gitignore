@@ -28,3 +28,4 @@ port
 port.lock
 tasks/
 terminal/history/
+workspace/*.xml

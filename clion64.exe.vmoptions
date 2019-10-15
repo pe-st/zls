@@ -12,5 +12,5 @@
 -XX:+HeapDumpOnOutOfMemoryError
 -XX:-OmitStackTraceInFastThrow
 -XX:MaxJavaStackTraceDepth=10000
--agentlib:yjpagent64=probe_disable=*,disablealloc,disabletracing,onlylocal,disableexceptiontelemetry,delay=10000,sessionname=CLion2017.3
+
 -Dcom.jetbrains.use.old.keyevent.processing=true
