@@ -1,4 +1,5 @@
 <application>
+  <component name="DaemonCodeAnalyzerSettings" profile="C++03" />
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
   </component>
