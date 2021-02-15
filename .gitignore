@@ -5,6 +5,7 @@
 clion.key
 disabled_plugins.txt
 eval
+options/actionSummary.xml
 options/dimensions.xml
 options/feature.usage.statistics.xml
 options/features.usage.statistics.xml
@@ -16,6 +17,7 @@ options/other.xml
 options/pluginAdvertiser.xml
 options/proxy.settings.pwd
 options/recentProjectDirectories.xml
+options/recentProjects.xml
 options/runner.layout.xml
 options/security.xml
 options/statistics.*.xml
@@ -24,6 +26,7 @@ options/usage.statistics.xml
 options/web-browsers.xml
 options/window.manager.xml
 options/window.state.xml
+options/wsl.distributions.xml
 pdb.pwd
 plugins/
 port
